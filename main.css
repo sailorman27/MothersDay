@@ -1,0 +1,32 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    background-color: lightcyan;
+  }  
+  .jumbotron {
+    display: flex;
+    align-items: center;
+    background-image: url('./resources/background.jpeg');
+    background-color: lightskyblue;
+    background-size: cover;
+    color: #3da3da;
+    height: 500px;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
+  }
+
+  .row {
+    margin: 0 0 20px;
+    color: #fff;
+  }
+  
+  .jumbotron h2 {
+    font-size: 60px;
+    font-weight: 700;
+    margin: 0;
+    color: #fff;
+  }
+  .text-justify {
+    padding: 25px 25px;
+  }
+ 
